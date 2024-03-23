@@ -1,0 +1,1 @@
+gcc ld_library.c -o ld_library.exe -m64 -lshlwapi
